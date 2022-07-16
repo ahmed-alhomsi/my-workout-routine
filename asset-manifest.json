@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-workout-routine/static/css/main.b6017546.css",
+    "main.js": "/my-workout-routine/static/js/main.4d2d6870.js",
+    "index.html": "/my-workout-routine/index.html",
+    "main.b6017546.css.map": "/my-workout-routine/static/css/main.b6017546.css.map",
+    "main.4d2d6870.js.map": "/my-workout-routine/static/js/main.4d2d6870.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6017546.css",
+    "static/js/main.4d2d6870.js"
+  ]
+}
