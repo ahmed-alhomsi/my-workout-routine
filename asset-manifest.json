@@ -1,13 +1,24 @@
 {
   "files": {
     "main.css": "/my-workout-routine/static/css/main.b6017546.css",
-    "main.js": "/my-workout-routine/static/js/main.4d2d6870.js",
+    "main.js": "/my-workout-routine/static/js/main.175bcd58.js",
+    "static/media/leg exercises.jpg": "/my-workout-routine/static/media/leg exercises.93a2f206d697a5935420.jpg",
+    "static/media/2 shoulder exercises.jpg": "/my-workout-routine/static/media/2 shoulder exercises.eeb6dcfbcc010691bb08.jpg",
+    "static/media/dumbells to foot while leg stationary.jpg": "/my-workout-routine/static/media/dumbells to foot while leg stationary.26d0e5a481eab62d5936.jpg",
+    "static/media/lift the dumbell to T-pose.jpg": "/my-workout-routine/static/media/lift the dumbell to T-pose.19d7c4c8a3a464ec2aec.jpg",
+    "static/media/db bentover rows.jpg": "/my-workout-routine/static/media/db bentover rows.d8044c71ed1b738e6e08.jpg",
+    "static/media/narrow pushup.jpg": "/my-workout-routine/static/media/narrow pushup.a4ac6201e50ca672f8eb.jpg",
+    "static/media/train wrist.jpg": "/my-workout-routine/static/media/train wrist.fa5929a3ef0e38ccd907.jpg",
+    "static/media/wide pushup.jpg": "/my-workout-routine/static/media/wide pushup.43a99dbf6c131b4ee42f.jpg",
+    "static/media/raise the dumbell to you.jpg": "/my-workout-routine/static/media/raise the dumbell to you.a4207e2f15af6925c50d.jpg",
+    "static/media/lift while lying down.jpg": "/my-workout-routine/static/media/lift while lying down.beee85361ff079aede4b.jpg",
+    "static/media/lift while arm is stationary.jpg": "/my-workout-routine/static/media/lift while arm is stationary.22a6ff5045025670c284.jpg",
     "index.html": "/my-workout-routine/index.html",
     "main.b6017546.css.map": "/my-workout-routine/static/css/main.b6017546.css.map",
-    "main.4d2d6870.js.map": "/my-workout-routine/static/js/main.4d2d6870.js.map"
+    "main.175bcd58.js.map": "/my-workout-routine/static/js/main.175bcd58.js.map"
   },
   "entrypoints": [
     "static/css/main.b6017546.css",
-    "static/js/main.4d2d6870.js"
+    "static/js/main.175bcd58.js"
   ]
 }
