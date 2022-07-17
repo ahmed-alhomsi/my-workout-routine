@@ -1,14 +1,18 @@
 import styled from "styled-components"
 import Card from "../components/Card"
+import shoulderExercises from '../workout exercises/Third day/2 shoulder exercises.jpg'
+import liftToTpose from '../workout exercises/Third day/lift the dumbell to T-pose.jpg'
+import legExercises from '../workout exercises/Third day/leg exercises.jpg'
+import gluteBridge from '../workout exercises/Third day/glute bridge.jpg'
 
 function DayThree() {
   return (
     <StyledDiv>
 
-      <Card src="./workout exercises/third day/2 shoulder exercises.jpg" alt="shoulder training" numberOfSets="4 X 15 / 4 X 15" />
-      <Card src="./workout exercises/third day/lift the dumbell to T-pose.jpg" alt="shoulder training" numberOfSets="4 X 10" />
-      <Card src="./workout exercises/third day/leg exercises.jpg" alt="shoulder training" numberOfSets="4 X 15 / 4 X 15" />
-      <Card src="./workout exercises/third day/glute bridge.jpg" alt="shoulder training" numberOfSets="4 X 20" />
+      <Card src={shoulderExercises} alt="shoulder training" numberOfSets="4 X 15 / 4 X 15" />
+      <Card src={liftToTpose} alt="shoulder training" numberOfSets="4 X 10" />
+      <Card src={legExercises} alt="shoulder training" numberOfSets="4 X 15 / 4 X 15" />
+      <Card src={gluteBridge} alt="shoulder training" numberOfSets="4 X 20" />
 
     </StyledDiv>
   )

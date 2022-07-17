@@ -1,14 +1,18 @@
 import styled from "styled-components"
 import Card from "../components/Card"
+import dbBentoverRows from '../workout exercises/second day/db bentover rows.jpg'
+import dumbellsToFoot from '../workout exercises/second day/dumbells to foot while leg stationary.jpg'
+import raiseDumbell from '../workout exercises/second day/raise the dumbell to you.jpg'
+import trainWrist from '../workout exercises/second day/train wrist.jpg'
 
 function DayTwo() {
   return (
     <StyledDiv>
 
-      <Card src="./workout exercises/second day/db bentover rows.jpg" alt="bentover rows" numberOfSets="4 X 10" />
-      <Card src="./workout exercises/second day/dumbells to foot while leg stationary.jpg" alt="dumbells to foot while leg stationary" numberOfSets="4 X 10" />
-      <Card src="./workout exercises/second day/raise the dumbell to you.jpg" alt="raise the dumbell to you" numberOfSets="4 X 10" />
-      <Card src="./workout exercises/second day/train wrist.jpg" alt="train wrist" numberOfSets="4 X 30" />
+      <Card src={dbBentoverRows} alt="bentover rows" numberOfSets="4 X 10" />
+      <Card src={dumbellsToFoot} alt="dumbells to foot while leg stationary" numberOfSets="4 X 10" />
+      <Card src={raiseDumbell} alt="raise the dumbell to you" numberOfSets="4 X 10" />
+      <Card src={trainWrist} alt="train wrist" numberOfSets="4 X 30" />
 
     </StyledDiv>
   )
